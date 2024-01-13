@@ -1,0 +1,1 @@
+Chat widget is a dynamic chat bot/representative webpage.
