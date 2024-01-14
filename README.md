@@ -1,1 +1,1 @@
-Chat widget is a dynamic chat bot/representative webpage.
+Chat widget is an automated chat bot/representative webpage.
